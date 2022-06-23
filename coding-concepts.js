@@ -47,7 +47,7 @@ const weekendDays = ["saturday", "sunday"]
 // console.log(weekendDays.toUpperCase())
 
 // a) Your answer: I want to say this would output Saturday, Sunday in uppercase.
-// b) Verify and explain: The code shows an error
+// b) Verify and explain: The code shows an error, I wanna say there is not enough information in the code to specify exactly what to do.
 
 
 // --------------------5) What will this log?
@@ -56,4 +56,4 @@ const dataTypes = ["number", "string", "Boolean"]
 console.log(typeof dataTypes.length)
 
 // a) Your answer: ?
-// b) Verify and explain: Im literally stumped, I know it outputs "number" but i cant for the life of me figure out why.
+// b) Verify and explain: Im literally stumped, I know it outputs "number" but i cant for the life of me figure out why, in my imagination it should output 3.

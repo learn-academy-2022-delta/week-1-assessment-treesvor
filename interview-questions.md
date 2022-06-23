@@ -63,8 +63,8 @@ Research and define the following terms to the best of your ability.
 
 2. Jest: Jest is a framework to check your javascript syntax
 
-3. Objects: ?
+3. Objects: Javascript data type that pairs key: values. Objects can contain static info as well as methods, This plays a big part in behavior.
 
 4. Method: Is the same thing as a function just it eliminates the need to write the same code over and over.
 
-5. Classes: ?
+5. Classes: Classes are a function that contain data and behavior, these are the blueprints of objects.
